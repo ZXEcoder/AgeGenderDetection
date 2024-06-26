@@ -28,7 +28,7 @@ python AgeGender.py --input <input_file>(Leave blank for webcam)
 ## Sample Result
 
 ![](sample-output.jpg)
-![](test1.gif)
+![](test2.gif)
 ![](test.gif)
 
 
